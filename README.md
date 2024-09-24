@@ -1,4 +1,4 @@
-<img src="https://raw.githubusercontent.com/nursandiid/messenger-clone/main/public/images/preview.png">
+<img src="">
 
 ## Overview
 This messenger app offers real-time messaging with a sleek UI design. It supports group chats, one-on-one messaging, and saved messages. Users can see active status and typing indicators, upload attachments, and send emojis. The app also features chat customization, media galleries, and contact list management, all with light and dark theme options.
@@ -26,7 +26,7 @@ This messenger app offers real-time messaging with a sleek UI design. It support
 ## Installation
 For the installation you can clone this project to your local computer.
 ```bash
-git clone https://github.com/nursandiid/messenger-clone
+git clone https://github.com/akmlnajib/Microbooks.git
 ```
 
 Navigate to the project folder.
@@ -59,7 +59,7 @@ APP_URL="http://127.0.0.1:8000"
 DB_CONNECTION=mysql
 DB_HOST=127.0.0.1
 DB_PORT=3306
-DB_DATABASE=messenger_clone
+DB_DATABASE=microbooks
 DB_USERNAME=root
 DB_PASSWORD=
 ```
@@ -117,11 +117,6 @@ php artisan storage:link
 Run the task scheduler in development mode:
 ```bash
 php artisan schedule:work
-```
-
-If you're using cron jobs, add this command to your crontab:
-```bash
-* * * * * cd /path-to-your-project && php artisan schedule:run >> /dev/null 2>&1
 ```
 
 Build assets with NPM:

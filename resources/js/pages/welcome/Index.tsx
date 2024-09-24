@@ -139,7 +139,7 @@ export default function Welcome({
           &copy; {appName} {moment().format("Y")}.
         </Link>
         <span className="flex items-center gap-1 text-secondary-foreground">
-          Built with <BsHeartFill className="text-sm text-danger" /> By Nursandi
+          Built with <BsHeartFill className="text-sm text-danger" /> By Microbooks
         </span>
       </div>
     </div>
