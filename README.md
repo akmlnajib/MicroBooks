@@ -49,7 +49,7 @@ cp .env.example .env
 
 ### Application Settings
 ```bash
-APP_NAME="Chats"
+APP_NAME="MicroBooks"
 APP_TIMEZONE="Asia/Jakarta"
 APP_URL="http://127.0.0.1:8000"
 ```
