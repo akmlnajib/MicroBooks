@@ -1,0 +1,275 @@
+{
+  "node_modules/laravel-vite-plugin/inertia-helpers/index.js": [],
+  "resources/js/api/chat-messages.ts": [
+    "/build/assets/SidebarMini-Di7pOyuz.js"
+  ],
+  "resources/js/api/chats.ts": [
+    "/build/assets/SidebarMini-Di7pOyuz.js"
+  ],
+  "resources/js/api/contacts.ts": [
+    "/build/assets/SidebarMini-Di7pOyuz.js"
+  ],
+  "resources/js/api/groups.ts": [
+    "/build/assets/SidebarMini-Di7pOyuz.js"
+  ],
+  "resources/js/api/users.ts": [
+    "/build/assets/SidebarMini-Di7pOyuz.js"
+  ],
+  "resources/js/components/Alert.tsx": [
+    "/build/assets/SidebarMini-Di7pOyuz.js"
+  ],
+  "resources/js/components/ApplicationLogo.tsx": [
+    "/build/assets/ApplicationLogo-ChmsOzt0.js"
+  ],
+  "resources/js/components/Checkbox.tsx": [
+    "/build/assets/Checkbox-B7HUhkNV.js"
+  ],
+  "resources/js/components/ComboBox.tsx": [
+    "/build/assets/SidebarMini-Di7pOyuz.js"
+  ],
+  "resources/js/components/DangerButton.tsx": [
+    "/build/assets/DeleteUserForm-DgsezsiF.js"
+  ],
+  "resources/js/components/Dropdown.tsx": [
+    "/build/assets/SidebarMini-Di7pOyuz.js"
+  ],
+  "resources/js/components/FormAlert.tsx": [
+    "/build/assets/FormAlert-DNVw3iG1.js"
+  ],
+  "resources/js/components/InputError.tsx": [
+    "/build/assets/InputError-DMEJWwuX.js"
+  ],
+  "resources/js/components/InputLabel.tsx": [
+    "/build/assets/InputLabel-BGYyLxCX.js"
+  ],
+  "resources/js/components/Modal.tsx": [
+    "/build/assets/Modal-DiCRk7y7.js"
+  ],
+  "resources/js/components/NavLink.tsx": [
+    "/build/assets/Edit-FJMO2rdK.js"
+  ],
+  "resources/js/components/PrimaryButton.tsx": [
+    "/build/assets/PrimaryButton-D0lSb-cF.js"
+  ],
+  "resources/js/components/SecondaryButton.tsx": [
+    "/build/assets/DeleteUserForm-DgsezsiF.js"
+  ],
+  "resources/js/components/TextArea.tsx": [
+    "/build/assets/SidebarMini-Di7pOyuz.js"
+  ],
+  "resources/js/components/TextInput.tsx": [
+    "/build/assets/InputError-DMEJWwuX.js"
+  ],
+  "resources/js/components/archived-chats/Sidebar.tsx": [
+    "/build/assets/Sidebar-wHVwDfA2.js"
+  ],
+  "resources/js/components/chats/Attachments.tsx": [
+    "/build/assets/PopupGallery-CSkOAjtT.js"
+  ],
+  "resources/js/components/chats/BadgeChatNotification.tsx": [
+    "/build/assets/ChatList-CHzDh_U2.js"
+  ],
+  "resources/js/components/chats/BadgeNotification.tsx": [
+    "/build/assets/SidebarMini-Di7pOyuz.js"
+  ],
+  "resources/js/components/chats/BadgeOnline.tsx": [
+    "/build/assets/BadgeOnline-Crz2lS8N.js"
+  ],
+  "resources/js/components/chats/ChatBody.tsx": [
+    "/build/assets/PopupGallery-CSkOAjtT.js"
+  ],
+  "resources/js/components/chats/ChatFooter.tsx": [
+    "/build/assets/PopupGallery-CSkOAjtT.js"
+  ],
+  "resources/js/components/chats/ChatHeader.tsx": [
+    "/build/assets/PopupGallery-CSkOAjtT.js"
+  ],
+  "resources/js/components/chats/ChatList.tsx": [
+    "/build/assets/ChatList-CHzDh_U2.js"
+  ],
+  "resources/js/components/chats/ChatListAction.tsx": [
+    "/build/assets/ChatList-CHzDh_U2.js"
+  ],
+  "resources/js/components/chats/ChatListSearch.tsx": [
+    "/build/assets/Sidebar-B3nF1lBJ.js"
+  ],
+  "resources/js/components/chats/ChatMessageAttachment.tsx": [
+    "/build/assets/PopupGallery-CSkOAjtT.js"
+  ],
+  "resources/js/components/chats/ChatMessages.tsx": [
+    "/build/assets/PopupGallery-CSkOAjtT.js"
+  ],
+  "resources/js/components/chats/Content.tsx": [
+    "/build/assets/PopupGallery-CSkOAjtT.js"
+  ],
+  "resources/js/components/chats/ContentEmpty.tsx": [
+    "/build/assets/ContentEmpty-C19tKPhS.js"
+  ],
+  "resources/js/components/chats/DeleteMessage.tsx": [
+    "/build/assets/PopupGallery-CSkOAjtT.js"
+  ],
+  "resources/js/components/chats/DeleteSelectedFileInChat.tsx": [
+    "/build/assets/PopupGallery-CSkOAjtT.js"
+  ],
+  "resources/js/components/chats/DragFileOverlay.tsx": [
+    "/build/assets/PopupGallery-CSkOAjtT.js"
+  ],
+  "resources/js/components/chats/PopupGallery.tsx": [
+    "/build/assets/PopupGallery-CSkOAjtT.js"
+  ],
+  "resources/js/components/chats/PreviewOnDropFile.tsx": [
+    "/build/assets/PopupGallery-CSkOAjtT.js"
+  ],
+  "resources/js/components/chats/ProfileInformation.tsx": [
+    "/build/assets/PopupGallery-CSkOAjtT.js"
+  ],
+  "resources/js/components/chats/SaveOrBlockContact.tsx": [
+    "/build/assets/PopupGallery-CSkOAjtT.js"
+  ],
+  "resources/js/components/chats/Sidebar.tsx": [
+    "/build/assets/Sidebar-B3nF1lBJ.js"
+  ],
+  "resources/js/components/chats/SidebarRight.tsx": [
+    "/build/assets/PopupGallery-CSkOAjtT.js"
+  ],
+  "resources/js/components/contacts/ContactList.tsx": [
+    "/build/assets/Index-BBAT3TB6.js"
+  ],
+  "resources/js/components/contacts/ContactListAction.tsx": [
+    "/build/assets/Index-BBAT3TB6.js"
+  ],
+  "resources/js/components/contacts/ContactListSearch.tsx": [
+    "/build/assets/Index-BBAT3TB6.js"
+  ],
+  "resources/js/components/contacts/Sidebar.tsx": [
+    "/build/assets/Index-BBAT3TB6.js"
+  ],
+  "resources/js/components/modals/AddNewGroup.tsx": [
+    "/build/assets/SidebarMini-Di7pOyuz.js"
+  ],
+  "resources/js/components/modals/BlockContactConfirmation.tsx": [
+    "/build/assets/SidebarMini-Di7pOyuz.js"
+  ],
+  "resources/js/components/modals/CustomizeChat.tsx": [
+    "/build/assets/SidebarMini-Di7pOyuz.js"
+  ],
+  "resources/js/components/modals/DeleteChatConfirmation.tsx": [
+    "/build/assets/SidebarMini-Di7pOyuz.js"
+  ],
+  "resources/js/components/modals/DeleteContactConfirmation.tsx": [
+    "/build/assets/SidebarMini-Di7pOyuz.js"
+  ],
+  "resources/js/components/modals/DeleteMessageConfirmation.tsx": [
+    "/build/assets/SidebarMini-Di7pOyuz.js"
+  ],
+  "resources/js/components/modals/EditGroup.tsx": [
+    "/build/assets/SidebarMini-Di7pOyuz.js"
+  ],
+  "resources/js/components/modals/ExitGroupConfirmation.tsx": [
+    "/build/assets/SidebarMini-Di7pOyuz.js"
+  ],
+  "resources/js/components/modals/Modal.tsx": [
+    "/build/assets/SidebarMini-Di7pOyuz.js"
+  ],
+  "resources/js/components/modals/Preferences.tsx": [
+    "/build/assets/SidebarMini-Di7pOyuz.js"
+  ],
+  "resources/js/components/preferences/Content.tsx": [
+    "/build/assets/Index-BYOToD1l.js"
+  ],
+  "resources/js/contexts/app-context.tsx": [
+    "/build/assets/SidebarMini-Di7pOyuz.js"
+  ],
+  "resources/js/contexts/chat-context.tsx": [
+    "/build/assets/SidebarMini-Di7pOyuz.js"
+  ],
+  "resources/js/contexts/chat-message-context.tsx": [
+    "/build/assets/SidebarMini-Di7pOyuz.js"
+  ],
+  "resources/js/contexts/contact-context.tsx": [
+    "/build/assets/SidebarMini-Di7pOyuz.js"
+  ],
+  "resources/js/contexts/modal-context.tsx": [
+    "/build/assets/SidebarMini-Di7pOyuz.js"
+  ],
+  "resources/js/hooks/use-debounce.ts": [
+    "/build/assets/SidebarMini-Di7pOyuz.js"
+  ],
+  "resources/js/hooks/use-screen-size.ts": [
+    "/build/assets/SidebarMini-Di7pOyuz.js"
+  ],
+  "resources/js/layouts/AppLayout.tsx": [
+    "/build/assets/SidebarMini-Di7pOyuz.js"
+  ],
+  "resources/js/layouts/AuthenticatedLayout.tsx": [
+    "/build/assets/Edit-FJMO2rdK.js"
+  ],
+  "resources/js/layouts/GuestLayout.tsx": [
+    "/build/assets/GuestLayout-Bxy73AWW.js"
+  ],
+  "resources/js/layouts/partials/SidebarMini.tsx": [
+    "/build/assets/SidebarMini-Di7pOyuz.js"
+  ],
+  "resources/js/pages/archived-chats/Index.tsx": [
+    "/build/assets/Index-B75iQsxF.js"
+  ],
+  "resources/js/pages/archived-chats/Show.tsx": [
+    "/build/assets/Show-B2B0_p8Y.js"
+  ],
+  "resources/js/pages/auth/ConfirmPassword.tsx": [
+    "/build/assets/ConfirmPassword-HGPr1wL-.js"
+  ],
+  "resources/js/pages/auth/ForgotPassword.tsx": [
+    "/build/assets/ForgotPassword-DDHbdcd2.js"
+  ],
+  "resources/js/pages/auth/Login.tsx": [
+    "/build/assets/Login-CscEiC5W.js"
+  ],
+  "resources/js/pages/auth/Register.tsx": [
+    "/build/assets/Register-CJpZ37kg.js"
+  ],
+  "resources/js/pages/auth/ResetPassword.tsx": [
+    "/build/assets/ResetPassword-BoZJeiWW.js"
+  ],
+  "resources/js/pages/auth/VerifyEmail.tsx": [
+    "/build/assets/VerifyEmail-D4AkwkvA.js"
+  ],
+  "resources/js/pages/chats/Index.tsx": [
+    "/build/assets/Index-C8y2ZL07.js"
+  ],
+  "resources/js/pages/chats/Show.tsx": [
+    "/build/assets/Show-BpyW6aMs.js"
+  ],
+  "resources/js/pages/contacts/Index.tsx": [
+    "/build/assets/Index-BBAT3TB6.js"
+  ],
+  "resources/js/pages/preferences/Index.tsx": [
+    "/build/assets/Index-BYOToD1l.js"
+  ],
+  "resources/js/pages/profile/Edit.tsx": [
+    "/build/assets/Edit-FJMO2rdK.js"
+  ],
+  "resources/js/pages/profile/partials/DeleteUserForm.tsx": [
+    "/build/assets/DeleteUserForm-DgsezsiF.js"
+  ],
+  "resources/js/pages/profile/partials/UpdatePasswordForm.tsx": [
+    "/build/assets/UpdatePasswordForm-UTJAhHpA.js"
+  ],
+  "resources/js/pages/profile/partials/UpdateProfileInformationForm.tsx": [
+    "/build/assets/UpdateProfileInformationForm-OPx4pzlQ.js"
+  ],
+  "resources/js/pages/welcome/Index.tsx": [
+    "/build/assets/Index-DWL0U48D.js"
+  ],
+  "resources/js/ssr.tsx": [],
+  "resources/js/types/chat.ts": [
+    "/build/assets/SidebarMini-Di7pOyuz.js"
+  ],
+  "resources/js/types/paginate.ts": [
+    "/build/assets/SidebarMini-Di7pOyuz.js"
+  ],
+  "resources/js/utils/index.ts": [
+    "/build/assets/SidebarMini-Di7pOyuz.js"
+  ],
+  "vendor/tightenco/ziggy/dist/index.js": []
+}
