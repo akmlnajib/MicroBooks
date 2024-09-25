@@ -1,5 +1,12 @@
-<img src="">
-
+                 __        __ +                     ____              
+                |   \    /   |_  ___  _ __   ___   |  _  \  ___  ___  _   _
+                | |\ \  / /| | |/ __\| '_ \ / _ \  | (_)  |/ _ \/ _ \| |/ /
+                | | \ \/ / | | | |__ | |_) | (_)   |. __ /  (_)  (_) |   <
+                |_|  \__/  |_|_|\___/| .  / \___/  |  __  \\___/\___/|_|\_\
+                                     | |\ \        | (__)  |         
+                                     |_| \_\       |______/
+                          
+             
 ## Overview
 This messenger app offers real-time messaging with a sleek UI design. It supports group chats, one-on-one messaging, and saved messages. Users can see active status and typing indicators, upload attachments, and send emojis. The app also features chat customization, media galleries, and contact list management, all with light and dark theme options.
 
