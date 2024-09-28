@@ -1,34 +1,11 @@
-                 __        __ +                     ____              
-                |   \    /   |_  ___  _ __   ___   |  _  \  ___  ___  _   _
-                | |\ \  / /| | |/ __\| '_ \ / _ \  | (_)  |/ _ \/ _ \| |/ /
-                | | \ \/ / | | | |__ | |_) | (_)   |. __ /  (_)  (_) |   <
-                |_|  \__/  |_|_|\___/| .  / \___/  |  __  \\___/\___/|_|\_\
-                                     | |\ \        | (__)  |         
-                                     |_| \_\       |______/
+                        __        __  +                     ____              
+                        |   \    /   |_  ___  _ __   ___   |  _  \  ___  ___  _   _
+                        | |\ \  / /| | |/ __\| '_ \ / _ \  | (_)  |/ _ \/ _ \| |/ /
+                        | | \ \/ / | | | |__ | |_) | (_)   |. __ /  (_)  (_) |   <
+                        |_|  \__/  |_|_|\___/| .  / \___/  |  __  \\___/\___/|_|\_\
+                                             | |\ \        | (__)  |         
+                                             |_| \_\       |______/
                           
-             
-## Overview
-This messenger app offers real-time messaging with a sleek UI design. It supports group chats, one-on-one messaging, and saved messages. Users can see active status and typing indicators, upload attachments, and send emojis. The app also features chat customization, media galleries, and contact list management, all with light and dark theme options.
-
-## Features:
-- Real-time messaging using Pusher
-- Notification system for messages and sound alerts
-- Sleek and intuitive UI design using Tailwind CSS
-- Tailwind animations and transition effects
-- Full responsiveness for all devices
-- Credential authentication facilitated by Laravel Breeze
-- Group chats and one-on-one messaging
-- Saved Messages to save your messages online like WhatsApp
-- Real-time user's active status
-- Real-time typing indicator
-- Upload attachments (photo/file/etc)
-- Send Emoji's
-- Chat customization options to personalize the messaging
-- Media and popup gallery for easy access to shared content
-- Contacts list management for organizing communication channels
-- Archive chats for decluttering the interface
-- User settings
-- Light and dark themes
 
 ## Installation
 For the installation you can clone this project to your local computer.
